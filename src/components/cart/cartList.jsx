@@ -1,5 +1,4 @@
 import styles from "./cart.module.css";
-import * as PortOne from "@portone/browser-sdk/v2";
 
 export const CartList = ({
   cart,
