@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Louis Vuitton Distorted Damier Denim Jacket",
+      "provider": "Louis Vuitton",
+      "price": 5740000,
+      "image": "/images/lv2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "PRADA Rinaelon Top Stitch Jacket",
+      "provider": "PRADA",
+      "price": 3400000,
+      "image": "/images/pd.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Christian Dior Casual Jacket",
+      "provider": "Christian Dior",
+      "price": 6960000,
+      "image": "/images/cd.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Burberry 22FW Check Barcity Bomber Jacket",
+      "provider": "Burberry",
+      "price": 4570000,
+      "image": "/images/bb.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tom Brown Melton 4 Bars Blouson Jacket",
+      "provider": "Tom Brown",
+      "price": 5360000,
+      "image": "/images/tb.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Supreme x Louis Vuitton Trucker Jacket",
+      "provider": "Louis Vuitton",
+      "price": 22000000,
+      "image": "/images/lv.jpg"
+    },
+    {
+      "id": 7,
+      "name": "GG Canvas Zip Jacket",
+      "provider": "Gucci",
+      "price": 3580000,
+      "image": "/images/gucci.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Tom Ford Casual Jacket",
+      "provider": "Tom Ford",
+      "price": 10400000,
+      "image": "/images/tf.jpg"
+    }
+  ]
+}
