@@ -1,5 +1,7 @@
 # MYLOOK Simple ver
 
+미리보기 : https://mylook-simple.netlify.app/
+
 ### 실행방법
 
 ```
