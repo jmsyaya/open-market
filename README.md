@@ -2,7 +2,7 @@
 
 ```
 git clone
-cd open-market
+cd open-market-main
 npm i
 npm start
 ```
