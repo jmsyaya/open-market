@@ -21,6 +21,6 @@ npm start
 - 금액은 노출될때 천원단위 콤마 표시
 - 상품목록 정렬기능
 
-<div align="center">
+// <div align="center">
   <img src="" alt="image")
 </div>
