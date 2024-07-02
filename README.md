@@ -22,5 +22,4 @@ npm start
 - 상품목록 정렬기능
 
 // <div align="center">
-//  <img src="" alt="image")
 // </div>
