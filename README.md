@@ -2,6 +2,10 @@
 
 미리보기 : https://mylook-simple.netlify.app/
 
+### 기간
+
+2023.12 ~ 2024.01
+
 ### 실행방법
 
 ```
